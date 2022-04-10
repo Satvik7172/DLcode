@@ -7,7 +7,7 @@ Models used are:-
 
 Performance of RNN(without pretrained embedding):-
 Accuracy-75.74%
-Training time-34.4740
+Training time-25.35
 
 Performance of RNN(with pretrained embedding):-
 Accuracy-79.25%
